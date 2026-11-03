@@ -1,1 +1,1 @@
-# Edubridge-assignment-1
+JAVA Practice-1
